@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">  
+<properties>  
+	<comment>IK Analyzer 扩展配置</comment>
+	<!-- 配置自己的扩展字典，字典需要保存为无BOM的UTF-格式,文件名随意 -->
+	<entry key="ext_dict">/mydict.txt;</entry> 
+	
+	 <!--配置自己的停用词字典，字典需要保存为无BOM的UTF-格式--> 
+	<entry key="ext_stopwords">/ext_stopword.txt;</entry>
+	
+</properties>
